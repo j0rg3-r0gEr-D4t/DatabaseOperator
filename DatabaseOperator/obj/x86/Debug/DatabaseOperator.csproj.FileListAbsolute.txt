@@ -1,0 +1,18 @@
+c:\users\dibrito\documents\visual studio 2010\Projects\DatabaseOperator\DatabaseOperator\bin\Debug\DatabaseOperator.exe
+c:\users\dibrito\documents\visual studio 2010\Projects\DatabaseOperator\DatabaseOperator\bin\Debug\DatabaseOperator.pdb
+c:\users\dibrito\documents\visual studio 2010\Projects\DatabaseOperator\DatabaseOperator\obj\x86\Debug\DatabaseOperator.Form1.resources
+c:\users\dibrito\documents\visual studio 2010\Projects\DatabaseOperator\DatabaseOperator\obj\x86\Debug\DatabaseOperator.Properties.Resources.resources
+c:\users\dibrito\documents\visual studio 2010\Projects\DatabaseOperator\DatabaseOperator\obj\x86\Debug\DatabaseOperator.csproj.GenerateResource.Cache
+c:\users\dibrito\documents\visual studio 2010\Projects\DatabaseOperator\DatabaseOperator\obj\x86\Debug\DatabaseOperator.exe
+c:\users\dibrito\documents\visual studio 2010\Projects\DatabaseOperator\DatabaseOperator\obj\x86\Debug\DatabaseOperator.pdb
+c:\users\dibrito\documents\visual studio 2010\Projects\DatabaseOperator\DatabaseOperator\bin\Debug\DatabaseOperator.exe.config
+G:\DatabaseOperator\DatabaseOperator\obj\x86\Debug\DatabaseOperator.csprojAssemblyReference.cache
+G:\DatabaseOperator\DatabaseOperator\obj\x86\Debug\DatabaseOperator.Form1.resources
+G:\DatabaseOperator\DatabaseOperator\obj\x86\Debug\DatabaseOperator.Properties.Resources.resources
+G:\DatabaseOperator\DatabaseOperator\obj\x86\Debug\DatabaseOperator.csproj.GenerateResource.cache
+G:\DatabaseOperator\DatabaseOperator\obj\x86\Debug\DatabaseOperator.csproj.CoreCompileInputs.cache
+G:\DatabaseOperator\DatabaseOperator\obj\x86\Debug\DatabaseOperator.exe
+G:\DatabaseOperator\DatabaseOperator\obj\x86\Debug\DatabaseOperator.pdb
+G:\DatabaseOperator\DatabaseOperator\bin\Debug\DatabaseOperator.exe.config
+G:\DatabaseOperator\DatabaseOperator\bin\Debug\DatabaseOperator.exe
+G:\DatabaseOperator\DatabaseOperator\bin\Debug\DatabaseOperator.pdb
